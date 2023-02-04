@@ -1,9 +1,10 @@
 namespace PetWebAppTests;
 
-public class UnitTest1
+public sealed class UnitTests
 {
     [Fact]
     public void Test1()
     {
+        
     }
 }
